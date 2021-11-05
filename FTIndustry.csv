@@ -1,0 +1,69 @@
+﻿Industry,Year,Average,SD,Percent
+Automotive/Transportation,2020,58690,6293,1.62%
+Banking (Commercial),2020,74978,11851,4.85%
+Banking (Investment),2020,82661,10200,12.53%
+Chemicals & Gases,2020,69730,4659,2.83%
+Communications/Marketing,2020,51870,9461,2.83%
+Consulting,2020,75233,10827,24.24%
+Consumer Goods/Retail,2020,65534,18410,6.26%
+Financial Services (excl banks),2020,73086,18749,11.11%
+Government/Nonprofit/Law,2020,48123,15112,1.82%
+Insurance,2020,59920,8597,1.62%
+Manufacturing/Construction,2020,56375,6395,0.81%
+Other,2020,57592,19544,1.01%
+Pharma/Health,2020,64092,4548,2.22%
+Private Wealth,2020,81667,5774,0.61%
+Public Accounting,2020,56843,6611,1.41%
+Real Estate,2020,67107,13281,2.83%
+Technology/Internet,2020,67960,21840,20.61%
+Automotive/Transportation,2019,58222,5025,3.29%
+Banking (Commercial),2019,73771,12122,4.35%
+Banking (Investment),2019,86167,9219,13.35%
+Chemicals & Gases,2019,71543,9554,4.92%
+Communications/Marketing,2019,46957,8445,0.81%
+Consulting,2019,72111,10224,25.17%
+Consumer Goods/Retail,2019,57916,11794,4.41%
+Financial Services (excl banks),2019,70281,13921,0.89%
+Government/Nonprofit/Law,2019,49844,11384,9.33%
+Insurance,2019,67000,9138,2.08%
+Manufacturing/Construction,2019,63938,12599,0.82%
+Other,2019,53044,17455,2.48%
+Pharma/Health,2019,55143,14462,2.48%
+Private Wealth,2019,NaN,NaN,NaN
+Public Accounting,2019,62111,5361,1.37%
+Real Estate,2019,57259,12257,2.96%
+Technology/Internet,2019,64429,17253,21.54%
+Automotive/Transportation,2018,57639,5618,4.39%
+Banking (Commercial),2018,67130,10568,5.39%
+Banking (Investment),2018,82822,8711,11.38%
+Chemicals & Gases,2018,67334,10050,6.99%
+Communications/Marketing,2018,46363,10725,2.59%
+Consulting,2018,69489,12431,23.35%
+Consumer Goods/Retail,2018,60333,8309,8.38%
+Financial Services (excl banks),2018,66060,14760,10.58%
+Government/Nonprofit/Law,2018,43291,8834,1.40%
+Insurance,2018,NaN,NaN,NaN
+Manufacturing/Construction,2018,59062,6777,1.20%
+Other,2018,NaN,NaN,NaN
+Pharma/Health,2018,53333,11547,0.60%
+Private Wealth,2018,NaN,NaN,NaN
+Public Accounting,2018,63556,7748,1.80%
+Real Estate,2018,63167,14713,2.40%
+Technology/Internet,2018,69691,20859,19.56%
+Automotive/Transportation,2017,58121,4950,4.54%
+Banking (Commercial),2017,62820,9310,4.93%
+Banking (Investment),2017,81633,9541,9.66%
+Chemicals & Gases,2017,NaN,NaN,NaN
+Communications/Marketing,2017,52011,18907,2.56%
+Consulting,2017,67270,9600,22.29%
+Consumer Goods/Retail,2017,56463,10929,4.73%
+Financial Services (excl banks),2017,64903,13664,7.30%
+Government/Nonprofit/Law,2017,37533,11231,1.78%
+Insurance,2017,55930,10297,5.33%
+Manufacturing/Construction,2017,55022,7029,1.58%
+Other,2017,65000,18028,0.59%
+Pharma/Health,2017,56833,9781,1.18%
+Private Wealth,2017,NaN,NaN,NaN
+Public Accounting,2017,57000,4822,2.17%
+Real Estate,2017,NaN,NaN,NaN
+Technology/Internet,2017,60606,13105,21.89%
